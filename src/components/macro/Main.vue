@@ -16,7 +16,7 @@ export default {
 
 <style lang="scss" scoped>
 main {
-  height: 95vh;
+  min-height: 95vh;
   display: flex;
   align-items: center;
 }
